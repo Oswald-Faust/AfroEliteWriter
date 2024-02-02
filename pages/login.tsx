@@ -30,7 +30,7 @@ export const IMac: NextPage = () => {
     </div>
     <button className="connectbutton absolute left-[900px] top-[474px] h-12 w-[380px]">
       <div className="connectbuttondiv rounded-8xs bg-principal border-principal absolute left-0 top-0 box-border h-12 w-[380px] border-[1px] border-solid" />
-      <div className="absolute left-[140px] top-[13px] font-semibold">
+      <div className="absolute left-[150px] top-[13px] font-semibold">
         Se connecter
       </div>
     </button>
@@ -53,7 +53,7 @@ export const IMac: NextPage = () => {
       </div>
     </div>
     <div className="connectbutton absolute left-[900px] top-[546px] h-12 w-[380px] text-gray-300">
-      <div className="absolute left-[129.61px] top-[13px] h-[22px] w-[195px]">
+      <div className="absolute left-[100px] top-[13px] h-[22px] w-[195px]">
         <div className="left-0 top-0 font-semibold">
           Se connecter avec Google
         </div>

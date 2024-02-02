@@ -6,6 +6,8 @@ import BackgroundImage from "@/components/BackgroundImage";
 import Slides from "@/components/Slides";
 import SlideInfo from "@/components/SlideInfo";
 import Controls from "@/components/Controls";
+import CardHoverEffectDemo from "./about";
+import Footer from "./footer";
 
 const inter = Righteous({
   subsets: ["latin"],
@@ -35,6 +37,7 @@ export default function Home() {
     });
 
   return (
+    <>
     <main
       className={`
        ${inter.className}
@@ -70,8 +73,14 @@ export default function Home() {
           </div>
         </div>
       </AnimatePresence>
-
     </main>
+    <div>
+      <CardHoverEffectDemo/>
+    </div>
+    <div>
+      <Footer/>
+    </div>
+    </>
 
   );
 }

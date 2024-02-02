@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.connectbutton:hover{
+    background-color: red;
+}
+.connectbutton{
+    border-radius: 20px;
+}
+
+.connectbuttondiv {
+    border-radius: 20px;
+}
+
+.connectbuttondiv:hover{
+    background-color: transparent;
+}
+
+.loginlink:hover{
+    color: red;
+}

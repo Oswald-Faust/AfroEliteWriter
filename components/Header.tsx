@@ -4,7 +4,7 @@ import { IoIosGlobe, IoMdSearch, IoMdPerson, IoMdClock } from "react-icons/io";
 import Head from "next/head";
 import Link from "next/link";
 
-function Header() {
+export function Header() {
   const [active, setActive] = React.useState(0);
   return (
     <div className=" absolute mt-5 flex w-full flex-wrap items-center justify-between gap-2 px-5 text-xs font-medium uppercase opacity-90 md:px-10">

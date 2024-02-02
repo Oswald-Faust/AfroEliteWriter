@@ -11,9 +11,6 @@ export default function Document() {
         <Main/>
         <NextScript />
       </body>
-      <div>
-      <CardHoverEffectDemo/>
-      </div>
     </Html>
   )
 }

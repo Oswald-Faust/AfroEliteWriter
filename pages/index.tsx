@@ -70,7 +70,7 @@ export default function Home() {
           </div>
         </div>
       </AnimatePresence>
-      iernqfieufhieu
+
     </main>
 
   );

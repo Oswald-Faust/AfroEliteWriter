@@ -1,7 +1,7 @@
 import { Html, Head, Main, NextScript } from "next/document";
+import CardHoverEffectDemo from "./about";
 
 import React from "react";
-import { StickyScroll } from "../components/ui/sticky-scroll-reveal";
 
 export default function Document() {
   return (
@@ -12,7 +12,7 @@ export default function Document() {
         <NextScript />
       </body>
       <div>
-        
+      <CardHoverEffectDemo/>
       </div>
     </Html>
   )

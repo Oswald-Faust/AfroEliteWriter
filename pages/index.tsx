@@ -77,28 +77,28 @@ export default function Home() {
 
 const sliderData = [
   {
-    img: "/1.png",
+    img: "/Fundo - Marketing digital.jpeg",
     location: "Bienvenue sur...",
     description:
       " Les meilleurs créateurs de contenus d'Afrique réunis sur une et même plateforme pour découvrir et apprendre ",
     title: "AfroElite Writer",
   },
   {
-    img: "/2.png",
+    img: "/photo-recadree-jeune-homme-serieux-assis-dans-coworking-bureau.jpg",
     title: "Rédaction web",
     description:
       "Trouvez les rédacteurs web adaptés à votre projet et découvrez les meilleures offres pour lancer votre carrière de créateurs de contenus !",
     location: "Le meilleur de la...",
   },
   {
-    img: "/3.png",
+    img: "/Rédacteur web seo mes missions.jpeg",
     title: "Meilleurs contenus",
     description:
       "Pour lancer vous marques, vos produits, vos projets et vos idées d'entreprises avec efficacité... ",
     location: "Dénichez les...",
   },
   {
-    img: "/4.png",
+    img: "/vue-dessus-adulte-appareils.jpg",
     title: "Relecture - Correction",
     description:
       "Le meilleur endroit pour transformer vos projets et vos écrits en contenus de qualité sur le web",
